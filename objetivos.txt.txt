@@ -1,3 +1,4 @@
+Primer objetivo
 Aprender Git
-Hacer mi primer commit
-Subir cambios a GitHub
+- Aprender a usar Git y SourceTree correctamente
+- Mejorar mis habilidades de programación
