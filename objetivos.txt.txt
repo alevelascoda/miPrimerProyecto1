@@ -2,3 +2,4 @@ Primer objetivo
 Aprender Git
 - Aprender a usar Git y SourceTree correctamente
 - Mejorar mis habilidades de programación
+ Terminar el máster con un buen proyecto final
